@@ -7,6 +7,7 @@ This project is based off of the site ‘Craigslist’. Craigslist is a website 
  
 
 ## Screen Designs
+![ScreenDesigns](ScreenDesigns.png)
 
 
 
@@ -58,6 +59,8 @@ The color scheme of this prototype was based off of the craigslist logo. Their l
 
 ## Wireflow
 
+![wireflow](Wireflow.png)
+
 
 
 
@@ -69,20 +72,24 @@ The color scheme of this prototype was based off of the craigslist logo. Their l
 ### Inclass Impression Test
 
 
-https://docs.google.com/document/d/1VOD8QfmIM2QyXMfvkLEhRjMFw4JLVMov3yZIh_D0NpE/edit?usp=sharing
+[Click Here for Link](https://docs.google.com/document/d/1VOD8QfmIM2QyXMfvkLEhRjMFw4JLVMov3yZIh_D0NpE/edit?usp=sharing)
 
 
 
 ### Impression Test #2
 
 
-https://docs.google.com/document/d/1hTQExF-IGaQOsS4RCr1rxPVxfMCZ7yPNkBCYiucVp3A/edit?usp=sharing
+[Click Here for Link](https://docs.google.com/document/d/1hTQExF-IGaQOsS4RCr1rxPVxfMCZ7yPNkBCYiucVp3A/edit?usp=sharing)
 
 
 
 
 
 ## Accessibility: Color Contrast Check
+
+![Color](Color1.png)
+![Color](Color2.png)
+![Color](Color3.png)
 
 
 
@@ -101,6 +108,23 @@ https://xd.adobe.com/view/65c01a42-19a9-414c-55ef-66b362ae7e15-13f1/
 
 
 
+Persona 1:
+[Video](https://drive.google.com/file/d/1IC0xsF6hYaICpFat6F2LQ1fHJC9g2o3a/view?usp=sharing)
+
+
+Persona 2:
+[Video](https://drive.google.com/file/d/1IB760XfCGECo_CDkqvmftJt2at3jKgeO/view?usp=sharing)
+
+
+Persona 3:
+[Video](https://drive.google.com/file/d/12loOvl8N5YVZxIFDIecTXhBFAwZ4FywS/view?usp=sharing)
+
+
+
+Findings:
+
+
+When doing the cognitive walkthrough, the site functioned properly and all three personas were able to find a post that they were interested in purchasing. However, throughout the walkthrough, there are many clickable buttons, pages, and images, but majority of these were not linked to anything due to this being a prototype. As a result, this was not completely able to simulate how users search around to look for different posts. Another finding was that the site was more difficult to navigate through since all the clickables could not be clicked, causing slight confusion. Additionally, the search bar is not supported by this version of the prototype, therefore, the users may have clicked through the site in an unfamiliar way. Finally, when using the filters, they do not stay checked after updating. This can cause some confusion to the users, causing them to think that the posts were not filtered. 
 
 
 
