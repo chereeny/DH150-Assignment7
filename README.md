@@ -66,6 +66,20 @@ The color scheme of this prototype was based off of the craigslist logo. Their l
 
 
 
+### Inclass Impression Test
+
+
+https://docs.google.com/document/d/1VOD8QfmIM2QyXMfvkLEhRjMFw4JLVMov3yZIh_D0NpE/edit?usp=sharing
+
+
+
+### Impression Test #2
+
+
+https://docs.google.com/document/d/1hTQExF-IGaQOsS4RCr1rxPVxfMCZ7yPNkBCYiucVp3A/edit?usp=sharing
+
+
+
 
 
 ## Accessibility: Color Contrast Check
@@ -86,17 +100,7 @@ https://xd.adobe.com/view/65c01a42-19a9-414c-55ef-66b362ae7e15-13f1/
 ## Cognitive Walkthroughs
 
 
-### Inclass Cognitive Walkthrough
 
-
-https://docs.google.com/document/d/1VOD8QfmIM2QyXMfvkLEhRjMFw4JLVMov3yZIh_D0NpE/edit?usp=sharing
-
-
-
-### Cognitive Walkthrough #2
-
-
-https://docs.google.com/document/d/1hTQExF-IGaQOsS4RCr1rxPVxfMCZ7yPNkBCYiucVp3A/edit?usp=sharing
 
 
 
