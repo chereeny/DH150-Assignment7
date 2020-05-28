@@ -79,7 +79,7 @@ The color scheme of this prototype was based off of the craigslist logo. Their l
 ### Impression Test #2
 
 
-[Click Here for Link](https://docs.google.com/document/d/1hTQExF-IGaQOsS4RCr1rxPVxfMCZ7yPNkBCYiucVp3A/edit?usp=sharing)
+[Click Here for Link](https://drive.google.com/file/d/1yNGnfigWb7HAaQaUJHIDJQIMg69zH8jL/view?usp=sharing)
 
 
 
